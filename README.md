@@ -1,0 +1,1 @@
+This repository contains functions and scripts used to generate estimates of diabetes cases based on population data. Together these scripts form the Race Linked Coefficient Model. All scripts were written by Jesse Hurtado.
